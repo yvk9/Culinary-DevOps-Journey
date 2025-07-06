@@ -3,7 +3,7 @@
 | Phase  | Title                            | What's Covered                                                                                                                                     |
 | ------ | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **00** | 📜 **Recipe Roti Map**           | Your hand-written grandma’s recipe book – a visual learning roadmap to start the journey                                                           |
-| **01** | 🍼 **Moong Dal Khichdi Basics**  | Simple and easy to digest: What is DevOps, Git, Linux, CI/CD basics — soft like moong dal khichdi                                                  |
+| **01** | 🍲 **Moong Dal Khichdi Basics**  | Simple and easy to digest: What is DevOps, Git, Linux, CI/CD basics — soft like moong dal khichdi                                                  |
 | **02** | 🍠 **Upma Level**                | Light but textured: Hands-on with Docker, Jenkins, CI pipelines — adding semolina, mustard seeds, and flow                                         |
 | **03** | 🍛 **Masala Dosa Mode**          | Crispy outside, spicy inside: Learn Ansible, Docker Compose, Minikube — building a full CI/CD stack like a layered dosa                            |
 | **04** | 🌿 **Palak Paneer Prep**         | Traditional yet complex: Terraform, AWS EKS, Kubernetes, Helm — like cooking the perfect paneer dish with smooth spinach gravy                     |
